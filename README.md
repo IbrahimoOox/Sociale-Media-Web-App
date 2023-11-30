@@ -14,7 +14,7 @@ Laravel livewire , javaScript, MySQL, Laragon, HeidiSql , PHP , etc ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ibrahim-araj/" >.</a>
+<a href="https://www.linkedin.com/in/ibrahim-araj/" >click here</a>
 </p>
 
 <p align="center"><a href="https://social.sjcvaipur.in" target="_blank"><img src="https://i.ibb.co/7nDB1kD/Pics-Art-06-14-08-24-08.png" width="180"></a></p>
